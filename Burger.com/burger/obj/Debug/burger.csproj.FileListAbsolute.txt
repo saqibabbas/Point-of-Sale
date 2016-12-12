@@ -1,0 +1,186 @@
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\bin\burger.dll
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\bin\burger.pdb
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\bin\Antlr3.Runtime.dll
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\bin\DotNetOpenAuth.AspNet.dll
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\bin\DotNetOpenAuth.Core.dll
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\bin\DotNetOpenAuth.OAuth.dll
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\bin\DotNetOpenAuth.OpenId.dll
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\bin\EntityFramework.dll
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\bin\Microsoft.Web.Infrastructure.dll
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\bin\System.Web.Optimization.dll
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\bin\System.Web.Providers.dll
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\bin\WebGrease.dll
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\bin\EntityFramework.xml
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\bin\DotNetOpenAuth.Core.xml
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\bin\DotNetOpenAuth.OAuth.xml
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\bin\DotNetOpenAuth.OpenId.xml
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\bin\DotNetOpenAuth.AspNet.xml
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\obj\Debug\burger.dll
+c:\users\abbas\documents\visual studio 2012\Projects\burger\burger\obj\Debug\burger.pdb
+C:\Users\abbas\documents\visual studio 2012\Projects\burger\burger\obj\Debug\burger.csprojResolveAssemblyReference.cache
+C:\Users\abbas\documents\visual studio 2012\Projects\burger\burger\obj\Debug\burger.dll.licenses
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\bin\burger.dll
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\bin\burger.pdb
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\bin\Antlr3.Runtime.dll
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\bin\DotNetOpenAuth.Core.dll
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\bin\EntityFramework.dll
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\bin\System.Web.Optimization.dll
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\bin\System.Web.Providers.dll
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\bin\WebGrease.dll
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\bin\EntityFramework.xml
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\bin\DotNetOpenAuth.Core.xml
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\obj\Debug\burger.csprojResolveAssemblyReference.cache
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\obj\Debug\burger.dll.licenses
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\obj\Debug\burger.dll
+C:\Users\SZIC-KARACHI\Desktop\burger\burger\burger\obj\Debug\burger.pdb
+C:\Users\abbas\Desktop\burger_Working\burger\bin\burger.dll
+C:\Users\abbas\Desktop\burger_Working\burger\bin\burger.pdb
+C:\Users\abbas\Desktop\burger_Working\burger\bin\Antlr3.Runtime.dll
+C:\Users\abbas\Desktop\burger_Working\burger\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\abbas\Desktop\burger_Working\burger\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\abbas\Desktop\burger_Working\burger\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\abbas\Desktop\burger_Working\burger\bin\DotNetOpenAuth.Core.dll
+C:\Users\abbas\Desktop\burger_Working\burger\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\abbas\Desktop\burger_Working\burger\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\abbas\Desktop\burger_Working\burger\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\abbas\Desktop\burger_Working\burger\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\abbas\Desktop\burger_Working\burger\bin\EntityFramework.dll
+C:\Users\abbas\Desktop\burger_Working\burger\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\abbas\Desktop\burger_Working\burger\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\abbas\Desktop\burger_Working\burger\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\abbas\Desktop\burger_Working\burger\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\abbas\Desktop\burger_Working\burger\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abbas\Desktop\burger_Working\burger\bin\System.Web.Optimization.dll
+C:\Users\abbas\Desktop\burger_Working\burger\bin\System.Web.Providers.dll
+C:\Users\abbas\Desktop\burger_Working\burger\bin\WebGrease.dll
+C:\Users\abbas\Desktop\burger_Working\burger\bin\EntityFramework.xml
+C:\Users\abbas\Desktop\burger_Working\burger\bin\DotNetOpenAuth.Core.xml
+C:\Users\abbas\Desktop\burger_Working\burger\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\abbas\Desktop\burger_Working\burger\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\abbas\Desktop\burger_Working\burger\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\abbas\Desktop\burger_Working\burger\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\abbas\Desktop\burger_Working\burger\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\abbas\Desktop\burger_Working\burger\obj\Debug\burger.csprojResolveAssemblyReference.cache
+C:\Users\abbas\Desktop\burger_Working\burger\obj\Debug\burger.dll.licenses
+C:\Users\abbas\Desktop\burger_Working\burger\obj\Debug\burger.dll
+C:\Users\abbas\Desktop\burger_Working\burger\obj\Debug\burger.pdb
+D:\Users\Arsalan\Desktop\burger_Working\burger\bin\burger.dll
+D:\Users\Arsalan\Desktop\burger_Working\burger\bin\burger.pdb
+D:\Users\Arsalan\Desktop\burger_Working\burger\bin\Antlr3.Runtime.dll
+D:\Users\Arsalan\Desktop\burger_Working\burger\bin\AspNet.ScriptManager.jQuery.dll
+D:\Users\Arsalan\Desktop\burger_Working\burger\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Users\Arsalan\Desktop\burger_Working\burger\bin\DotNetOpenAuth.AspNet.dll
+D:\Users\Arsalan\Desktop\burger_Working\burger\bin\DotNetOpenAuth.Core.dll
+D:\Users\Arsalan\Desktop\burger_Working\burger\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Users\Arsalan\Desktop\burger_Working\burger\bin\DotNetOpenAuth.OAuth.dll
+D:\Users\Arsalan\Desktop\burger_Working\burger\bin\DotNetOpenAuth.OpenId.dll
+D:\Users\Arsalan\Desktop\burger_Working\burger\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Users\Arsalan\Desktop\burger_Working\burger\bin\EntityFramework.dll
+D:\Users\Arsalan\Desktop\burger_Working\burger\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Users\Arsalan\Desktop\burger_Working\burger\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Users\Arsalan\Desktop\burger_Working\burger\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Users\Arsalan\Desktop\burger_Working\burger\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Users\Arsalan\Desktop\burger_Working\burger\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\Arsalan\Desktop\burger_Working\burger\bin\System.Web.Optimization.dll
+D:\Users\Arsalan\Desktop\burger_Working\burger\bin\System.Web.Providers.dll
+D:\Users\Arsalan\Desktop\burger_Working\burger\bin\WebGrease.dll
+D:\Users\Arsalan\Desktop\burger_Working\burger\bin\EntityFramework.xml
+D:\Users\Arsalan\Desktop\burger_Working\burger\bin\DotNetOpenAuth.Core.xml
+D:\Users\Arsalan\Desktop\burger_Working\burger\bin\DotNetOpenAuth.OAuth.xml
+D:\Users\Arsalan\Desktop\burger_Working\burger\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Users\Arsalan\Desktop\burger_Working\burger\bin\DotNetOpenAuth.OpenId.xml
+D:\Users\Arsalan\Desktop\burger_Working\burger\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Users\Arsalan\Desktop\burger_Working\burger\bin\DotNetOpenAuth.AspNet.xml
+D:\Users\Arsalan\Desktop\burger_Working\burger\obj\Debug\burger.csprojResolveAssemblyReference.cache
+D:\Users\Arsalan\Desktop\burger_Working\burger\obj\Debug\burger.dll.licenses
+D:\Users\Arsalan\Desktop\burger_Working\burger\obj\Debug\burger.dll
+D:\Users\Arsalan\Desktop\burger_Working\burger\obj\Debug\burger.pdb
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\bin\burger.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\bin\burger.pdb
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\bin\Antlr3.Runtime.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\bin\DotNetOpenAuth.Core.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\bin\EntityFramework.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\bin\System.Web.Optimization.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\bin\System.Web.Providers.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\bin\WebGrease.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\bin\EntityFramework.xml
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\bin\DotNetOpenAuth.Core.xml
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\obj\Debug\burger.csprojResolveAssemblyReference.cache
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\obj\Debug\burger.dll.licenses
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\obj\Debug\burger.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working\burger\obj\Debug\burger.pdb
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\bin\burger.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\bin\burger.pdb
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\bin\Antlr3.Runtime.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\bin\DotNetOpenAuth.Core.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\bin\EntityFramework.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\bin\System.Web.Optimization.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\bin\System.Web.Providers.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\bin\WebGrease.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\bin\EntityFramework.xml
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\bin\DotNetOpenAuth.Core.xml
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\obj\Debug\burger.csprojResolveAssemblyReference.cache
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\obj\Debug\burger.dll.licenses
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\obj\Debug\burger.dll
+C:\Users\Imran Sheikh\Documents\Visual Studio 2012\Projects\burger_Working_latest\burger\obj\Debug\burger.pdb
